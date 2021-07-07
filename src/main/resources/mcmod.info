@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "OOF",
+    "name": "OOF",
+    "description": "IDK",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "WhyDitto"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
